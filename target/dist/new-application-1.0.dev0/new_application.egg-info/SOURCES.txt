@@ -1,0 +1,8 @@
+helloworld.py
+setup.py
+new_application.egg-info/PKG-INFO
+new_application.egg-info/SOURCES.txt
+new_application.egg-info/dependency_links.txt
+new_application.egg-info/namespace_packages.txt
+new_application.egg-info/top_level.txt
+new_application.egg-info/zip-safe
